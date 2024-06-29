@@ -1,4 +1,4 @@
-## [oi amiguinhosososss](https://github.com/Winther88/Winther88/blob/main/gitHub%20readme.png)
+## https://github.com/Winther88/Winther88/blob/main/gitHub%20readme.png
 
 <!--
 **Winther88/Winther88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
